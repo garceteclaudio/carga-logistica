@@ -11,6 +11,8 @@ export function App() {
       <input type="text" placeholder="Nueva tarea" />
       <button>+</button>
       <button></button>
+      <button>boton uno</button>
+      <button>boton dos</button>
     </Fragment>
   );
 }
